@@ -216,3 +216,16 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# =========================================================================
+# Data and Large Files (Custom Additions)
+# =========================================================================
+*.csv
+*.xlsx
+*.parquet
+*.json
+data/
+
+
+
+
